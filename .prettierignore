@@ -1,0 +1,15 @@
+node_modules
+package.json
+img
+.*
+.env
+coverage
+coverage.json
+typechain
+Storage.sol
+deploy.js
+test-deploy.js
+#Hardhat files
+cache
+artifacts
+README.md
